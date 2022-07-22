@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "896791182515",
+    "project_id": "mental-pin-test-v2",
+    "storage_bucket": "mental-pin-test-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896791182515:android:644d53346afad15ca644c6",
+        "android_client_info": {
+          "package_name": "com.example.mental_pinble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896791182515-gtngf9ediug07l7if4vn98fm446oc7js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcI2oaIncpapHwE8N9wJdp9GAPCeU_BE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896791182515-gtngf9ediug07l7if4vn98fm446oc7js.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "896791182515-97ch1gh5if02dk3ksn694f2odqppe0g9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pauldemarco.flutterBlueExample2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
